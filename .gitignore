@@ -5,7 +5,8 @@ __pycache__/
 .venv/
 .venv_local/
 .tmp_pip/
-backend/.env
+.env
+backend/venv/
 
 # Node
 node_modules/
